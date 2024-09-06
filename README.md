@@ -1,1 +1,1 @@
-# cat-dog-classifier-application-for-pcon-core-python-and-tensorflow-and-
+# cat-dog-classifier-application-for-core-python-and-tensorflow
